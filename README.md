@@ -21,13 +21,13 @@ Before running the analysis, install the required R packages:
 
 If you're new to single-cell RNA sequencing (scRNA-seq) and want real-world data for analysis, follow these steps to download **TCGA** datasets:
 
-### **Step-by-Step Guide**
+### Step-by-Step Guide
 **Visit TCGA Data Portal.
 **Select Brain Cancer Data.  
 **Navigate to Repository.  
 **Filter for scRNA-seq Data.  
-**Refine by File Format** – In filters, select HDF5 format for structured data.  
-**Choose a Dataset** – You’ll find **17 files available . Select any one to begin your scRNA-seq analysis.
+**Refine by File Format – In filters, select HDF5 format for structured data.  
+**Choose a Dataset – You’ll find **17 files available . Select any one to begin your scRNA-seq analysis.
 
 After downloading, you can load the data into Seurat for preprocessing and clustering.
 
